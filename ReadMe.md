@@ -38,3 +38,5 @@ There are 7 .jpg files:
 
 	Hello gif:
 	# joey.jpg
+
+To add the bot to your server follow this link: https://discord.com/api/oauth2/authorize?client_id=840156980513603604&permissions=2148002880&scope=bot
