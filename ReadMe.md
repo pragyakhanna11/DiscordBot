@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/75221153/117552141-550d7f00-b067-11eb-8303-f7f46f22183a.png)
+
 "Crisis affects us all in different ways. There is no right way to cope with stressful times, but there are things you can do to manage these emotions." With this in mind we have decided to make a discord bot, “Mindfulness”- Be kind to your mind.
 
 The theme of our project being Mental Health Awarenes, 
@@ -36,4 +38,3 @@ There are 7 .jpg files:
 
 	Hello gif:
 	# joey.jpg
-
